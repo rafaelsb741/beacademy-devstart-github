@@ -1,2 +1,2 @@
-# beacademy-devstart-github
-Repositório direcionado aos estudos no projeto Be Academy
+Conhecendo o git e github
+
