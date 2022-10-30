@@ -1,2 +1,2 @@
-Conhecendo o git e github
+Concertando instalação incorreta
 
